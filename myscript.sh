@@ -1,1 +1,1 @@
-echo "This is a normal experiment"
+echo "This is a normal one experiment"
